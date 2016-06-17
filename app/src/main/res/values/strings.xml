@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">NoteTaker</string>
     <string name="say_bye">See Ya Sucker!</string>
+    <string name="title">Title:</string>
+    <string name="date">Date:</string>
+    <string name="note">Note:</string>
+    <string name="save">Save</string>
 </resources>
